@@ -1,3 +1,4 @@
-node_modules/
-
 venv/
+frontend/node_modules/
+
+frontend/build/
